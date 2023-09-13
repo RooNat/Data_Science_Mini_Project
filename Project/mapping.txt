@@ -1,0 +1,1 @@
+{"0": "down", "2": "up", "1": "stationary"}
